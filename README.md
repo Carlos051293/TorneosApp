@@ -1,4 +1,4 @@
-# 🏆TorneosApp — Gestión de Torneos Deportivos
+# TorneosApp — Gestión de Torneos Deportivos
 
 Este proyecto consiste en el desarrollo de una **aplicación web** para gestionar torneos deportivos de manera sencilla y organizada. El objetivo principal es permitir a los usuarios administrar torneos, equipos, jugadores y partidos a través de una interfaz moderna y un backend estructurado.
 
